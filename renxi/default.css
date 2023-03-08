@@ -81,6 +81,7 @@ a {
     border: solid yellowgreen 10px;
     animation: zoom 3s forwards;
     object-fit: cover;
+    object-position: bottom;
 }
 
 @-webkit-keyframes zoom {
